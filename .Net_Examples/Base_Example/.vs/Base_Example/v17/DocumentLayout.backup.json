@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eshkere\\Documents\\College_Works\\.Net_Examples\\Base_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C292DC4-7C07-43D9-83D8-E1B7528A7E02}|Base_Example\\Base_Example.csproj|c:\\users\\eshkere\\documents\\college_works\\.net_examples\\base_example\\base_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C292DC4-7C07-43D9-83D8-E1B7528A7E02}|Base_Example\\Base_Example.csproj|solutionrelative:base_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eshkere\\Documents\\College_Works\\.Net_Examples\\Base_Example\\Base_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Base_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\eshkere\\Documents\\College_Works\\.Net_Examples\\Base_Example\\Base_Example\\Program.cs*",
+              "RelativeToolTip": "Base_Example\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:12:27.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

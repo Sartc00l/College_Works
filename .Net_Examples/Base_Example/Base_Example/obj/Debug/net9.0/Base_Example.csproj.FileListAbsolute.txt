@@ -1,0 +1,15 @@
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\bin\Debug\net9.0\Base_Example.exe
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\bin\Debug\net9.0\Base_Example.deps.json
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\bin\Debug\net9.0\Base_Example.runtimeconfig.json
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\bin\Debug\net9.0\Base_Example.dll
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\bin\Debug\net9.0\Base_Example.pdb
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\Base_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\Base_Example.AssemblyInfoInputs.cache
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\Base_Example.AssemblyInfo.cs
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\Base_Example.csproj.CoreCompileInputs.cache
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\Base_Example.sourcelink.json
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\Base_Example.dll
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\refint\Base_Example.dll
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\Base_Example.pdb
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\Base_Example.genruntimeconfig.cache
+C:\Users\eshkere\Documents\College_Works\.Net_Examples\Base_Example\Base_Example\obj\Debug\net9.0\ref\Base_Example.dll
